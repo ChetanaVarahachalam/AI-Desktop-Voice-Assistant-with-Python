@@ -1,10 +1,5 @@
 # AI-Desktop-Voice-Assistant-with-Python
 
-
-
-# Project Name
-
-
 ## Introduction
 
 J.A.R.V.I.S is a minimalist voice assistant created using Python, designed to perform basic tasks and provide straightforward interaction through voice commands. With a focus on simplicity and ease of use, J.A.R.V.I.S serves as an introduction to the world of voice-controlled applications.
