@@ -13,7 +13,7 @@ List the key features of your voice assistant. This can include:
 - Command handling
 - Customizable commands
 
-## Installation the required modules:
+## Installation of the required modules:
 
 
 ```bash
